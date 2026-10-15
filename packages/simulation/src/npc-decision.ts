@@ -1,4 +1,4 @@
-import type { NPC, NPCAction, PersonalityTrait } from "@nexus/types";
+  import type { NPC, NPCAction, PersonalityTrait } from "@nexus/types";
 
 export function decideAction(npc: NPC): NPCAction {
   if (npc.hunger > 70) {

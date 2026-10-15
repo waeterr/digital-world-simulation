@@ -4,3 +4,6 @@ export * from "./world-state";
 export * from "./npc-actions";
 export * from "./npc-decision";
 export * from "./economy";
+export * from "./quest";
+export * from "./relationships";
+export * from "./random-event";
