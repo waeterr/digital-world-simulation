@@ -37,7 +37,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>NEXUS // Digital World Simulator</h1>
+        <h1> Digital World Simulation</h1>
         <p>Real-time simulation engine monitoring</p>
       </header>
 
