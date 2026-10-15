@@ -2,7 +2,7 @@
 
 A real-time digital world simulation built to learn TypeScript through a practical, event-driven application.
 
-NEXUS creates a world where NPCs act on their needs, weather changes, prices respond to supply and demand, quests progress, and events are broadcast live to a web dashboard.
+creates a world where NPCs act on their needs, weather changes, prices respond to supply and demand, quests progress, and events are broadcast live to a web dashboard.
 
 ## Screenshot
 
