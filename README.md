@@ -1,4 +1,4 @@
-# NEXUS // Digital World Simulation
+# Digital World Simulation
 
 A real-time digital world simulation built to learn TypeScript through a practical, event-driven application.
 
