@@ -6,10 +6,7 @@ NEXUS creates a world where NPCs act on their needs, weather changes, prices res
 
 ## Screenshot
 
-_Add a dashboard screenshot here._
 
-```md
-![NEXUS dashboard](./docs/images/dashboard.png)
 ```
 
 ## Features
